@@ -58,7 +58,3 @@ git push origin main
 To check remote url 
 ```
 git remote -v
-
-To check version 
-```
-git log

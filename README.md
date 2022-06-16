@@ -61,6 +61,19 @@ To check remote url
 git remote -v
 ```
 
+Update GIT Access token
+'''
+
+Create new PAT in Github
+git remote set-url origin https://<personal_access_token>@github.com/<your_username>/<repo_name>.git
+
+Your git remote -v should be something like:
+
+origin  https://<your_personal_access_token>@github.com/<username>/<repo_name>.git (fetch)
+origin  https://<your_personal_access_token>@github.com/<username>/<repo_name
+'''
+
+
 To setup CI/CD pipeline in heroku we need 3 information
 1. HEROKU_EMAIL = manas.uit@gmail.com
 2. HEROKU_API_KEY = <Should not put tese info in public domain>

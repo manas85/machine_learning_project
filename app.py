@@ -6,7 +6,7 @@ app= Flask(__name__)
 
 @app.route("/",methods=['GET','POST'])
 def index():
-    return "Starting Machine learning Project"
+    return "Starting Machine learning Project-next try"
 
 
 if __name__=="__main__":

@@ -110,3 +110,9 @@ To remove docker file
 '''
 docker rmi -f $(docker images -aq)
 '''
+
+
+To insatll ipykernel - for jupyternotebook
+'''
+pip install ipykernel
+'''

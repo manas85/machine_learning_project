@@ -1,0 +1,5 @@
+best_model:
+  model_path: /Users/saumyapandey/Documents/ineuron/ml1/machine_learning_project/housing/artifact/model_trainer/2022-07-06-20-11-15/trained_model/model.pkl
+history:
+  2022-07-06-20-11-15:
+    model_path: /Users/saumyapandey/Documents/ineuron/ml1/machine_learning_project/housing/artifact/model_trainer/2022-07-06-20-00-56/trained_model/model.pkl

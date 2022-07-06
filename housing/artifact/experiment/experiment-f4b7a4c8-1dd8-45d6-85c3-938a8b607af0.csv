@@ -1,0 +1,9 @@
+experiment_id,f4b7a4c8-1dd8-45d6-85c3-938a8b607af0
+initialization_timestamp,2022-07-06-19-02-08
+log_file_name,log_2022-07-06-19-02-08.log
+running_status,True
+start_time,2022-07-06 19:02:09.280736
+stop_time,
+execution_time,
+message,Pipeline has been started.
+experiment_file_path,/Users/saumyapandey/Documents/ineuron/ml1/machine_learning_project/housing/artifact/experiment/experiment-f4b7a4c8-1dd8-45d6-85c3-938a8b607af0.csv

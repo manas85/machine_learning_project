@@ -5,4 +5,7 @@ sklearn
 pandas
 PyYAML
 dill
+six
+evidently
+matplotlib
 -e .
